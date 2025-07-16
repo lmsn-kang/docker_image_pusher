@@ -1,4 +1,1 @@
-nginx
-alpine
-redis:6.2-alpine
-nats:2.9-alpine
+hashicorp/consul
