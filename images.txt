@@ -1,1 +1,1 @@
-httpbin
+kennethreitz/httpbin
