@@ -1,2 +1,2 @@
-kong
-postgres:13
+bitnami/kafka
+bitnami/zookeeper
