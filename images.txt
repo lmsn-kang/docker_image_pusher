@@ -1,2 +1,2 @@
-bitnami/kafka
-bitnami/zookeeper
+bitnami/etcd:3.5
+mysql:8.0
